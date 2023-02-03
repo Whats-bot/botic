@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/unptoadrih15",
+    "homepage": "https://github.com/Whats-bot/botic",
     "author": {
         "name": "unptoadrih15"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/unptoadrih15/upabotMD.git"
+        "url": "https://github.com/Whats-bot/botic"
     },
     "bugs": {
-        "url": "https://github.com/unptoadrih15/upabotMD/issues"
+        "url": "https://github.com/Whats-bot/botic/issues"
     },
     "license": "MIT",
     "dependencies": {
